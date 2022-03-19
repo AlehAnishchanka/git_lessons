@@ -1,1 +1,1 @@
-Тест автоматического git add <filename>
+Тест автоматического git add <filename> v-2
